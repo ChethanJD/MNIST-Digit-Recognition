@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build/package
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Generated ML models/checkpoints
+models/*.h5
+models/*.hdf5
+models/*.keras
+models/*.ckpt
+checkpoints/
+runs/
+logs/
+outputs/
+results/
+
+# Datasets / large files
+data/
+dataset/
+*.zip
+*.tar
+*.tar.gz
+
+# Local project metadata
+project_structure.txt
