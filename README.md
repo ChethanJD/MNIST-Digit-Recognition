@@ -313,7 +313,5 @@ Potential applications include:
 ## Author
 
 **Chethan J D**  
-Roll No: `20231ECE0174`  
-Department of Electronics & Communication Engineering
 
 This repository contains an academic Digital Image Processing project demonstrating CNN-based handwritten digit recognition and practical image-processing inference.
